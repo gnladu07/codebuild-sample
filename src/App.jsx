@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    <h1>윤휘명 짱짱맨</h1>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
